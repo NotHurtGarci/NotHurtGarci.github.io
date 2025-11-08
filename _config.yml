@@ -1,5 +1,5 @@
+remote_theme: pages-themes/leap-day@v0.2.0
 title: ¡San Alberto 2025!
 description: Aqui podrás encontrar todas las bases de los torneos, horarios y localizaciones de los torneos de  de San Alberto 2025!
-remote_theme: pages-themes/leap-day@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
