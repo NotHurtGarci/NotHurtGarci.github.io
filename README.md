@@ -3,6 +3,7 @@
 Bienvenido, aquí encontrarás las normas y condiciones de cada torneo.
 Haz clic en el título correspondiente para abrir el documento directamente en tu navegador.
 Los horarios se publicarán en esta misma web próximamente.
+
 📬 **Contacto:**  
 Para cualquier duda o incidencia relacionada con los torneos, puedes contactar con la organización por los canales oficiales. (https://chat.whatsapp.com/Kj0fGpqOwpTEwr7HfT65PL)
 
