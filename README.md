@@ -38,8 +38,8 @@ Para cualquier duda o incidencia relacionada con los torneos, puedes contactar c
 
 ---
 
- ## ⭐ Brawl Stars 
- [📄 Ver bases del torneo](./bases_brawl_stars.pdf)
+## ⭐ Brawl Stars
+[📄 Ver bases del torneo](./bases_brawl_stars.pdf)
 
 ---
 
