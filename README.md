@@ -1,8 +1,10 @@
-# 🏆 Bases de los Torneos
+# 🏆 Información general
 
-Bienvenido/a a la página oficial de **Bases de los Torneos**.  
-Aquí encontrarás las normas y condiciones de cada torneo.  
+Bienvenido, aquí encontrarás las normas y condiciones de cada torneo.
 Haz clic en el título correspondiente para abrir el documento directamente en tu navegador.
+Los horarios se publicarán en esta misma web próximamente.
+📬 **Contacto:**  
+Para cualquier duda o incidencia relacionada con los torneos, puedes contactar con la organización por los canales oficiales. (https://chat.whatsapp.com/Kj0fGpqOwpTEwr7HfT65PL)
 
 ---
 
@@ -31,8 +33,13 @@ Haz clic en el título correspondiente para abrir el documento directamente en t
 
 ---
 
-## ⚡ Clash Royale / Brawl Stars  
-[📄 Ver bases del torneo](./bases_clash_royale_brawl_stars.pdf)
+## ⚡ Clash Royale 
+[📄 Ver bases del torneo](./bases_clash_royale.pdf)
+
+---
+
+ ## ⭐ Brawl Stars 
+ [📄 Ver bases del torneo](./bases_brawl_stars.pdf)
 
 ---
 
@@ -71,9 +78,5 @@ Haz clic en el título correspondiente para abrir el documento directamente en t
 
 ---
 
-📬 **Contacto:**  
-Para cualquier duda o incidencia relacionada con los torneos, puedes contactar con la organización por los canales oficiales.
 
----
-
-> _Última actualización: Noviembre 2025_
+> _Última actualización: 08/11/2025
