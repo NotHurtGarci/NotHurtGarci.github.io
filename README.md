@@ -74,8 +74,8 @@ Para cualquier duda o incidencia relacionada con los torneos, puedes contactar c
 
 ---
 
-## 🏁 Mario Kart 8  
-[📄 Ver bases del torneo](./bases_mario_kart_8.pdf)
+## 🏁 Mario Kart World  
+[📄 Ver bases del torneo](./bases_mario_kart_world.pdf)
 
 ---
 
